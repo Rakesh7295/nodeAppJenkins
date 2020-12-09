@@ -14,9 +14,4 @@
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
 
-    <configuration>
-         <source>1.8</source>
-         <target>1.8</target>
-    </configuration>
-
 </project>
